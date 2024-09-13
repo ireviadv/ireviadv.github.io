@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ireviadv.github.io/sitemap.html.gz
+Sitemap: https://ireviadv.github.io/app/sitemap.html.gz
+Sitemap: https://ireviadv.github.io/assets/sitemap.html.gz
+Sitemap: https://ireviadv.github.io/css/sitemap.html.gz
+Sitemap: https://ireviadv.github.io/includes/sitemap.html.gz
+Sitemap: https://ireviadv.github.io/item/sitemap.html.gz
+Sitemap: https://ireviadv.github.io/src/sitemap.html.gz
